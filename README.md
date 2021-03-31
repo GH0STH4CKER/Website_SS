@@ -1,2 +1,2 @@
-# Website_SS
-Program to capture screenshot of a website. [screenshotmachine.com]
+# Website_ScreenShot
+Program to capture screenshot of a website. [scr
