@@ -15,4 +15,6 @@ line 1: key = "apikey"
 ```pip install requests colorama```<br>
 ```python SS_Machine.py```<br>
 
-<img src='https://github.com/GH0STH4CKER/Website_SS/blob/main/SSmachine_video.gif' width=500>
+<h3>Commands :</h3>
+<br>
+<img src='https://github.com/GH0STH4CKER/Website_SS/blob/main/SSmachine_video.gif' width=1000>
