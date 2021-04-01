@@ -15,4 +15,4 @@ line 1: key = "apikey"
 ```pip install requests colorama```<br>
 ```python SS_Machine.py```<br>
 
-![video](https://github.com/GH0STH4CKER/Website_SS/blob/main/SSmachine_video.mp4)
+<img src='https://github.com/GH0STH4CKER/Website_SS/blob/main/SSmachine_video.gif' width=500>
