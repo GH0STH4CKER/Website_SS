@@ -10,5 +10,5 @@ line 1: key = "apikey"
 
 ```git clone https://github.com/GH0STH4CKER/Website_SS.git```<br>
 ```cd Website_SS```<br>
-```pip install requests```<br>
+```pip install requests colorama```<br>
 ```python SS_Machine.py```<br>
