@@ -17,4 +17,4 @@ line 1: key = "apikey"
 
 <h3>Commands :</h3>
 <br>
-<img src='https://github.com/GH0STH4CKER/Website_SS/blob/main/SSmachine_video.gif' width=1000>
+<img src='https://github.com/GH0STH4CKER/Website_SS/blob/main/SSmachine_video.gif' width=750>
