@@ -3,7 +3,7 @@ Program to capture screenshot of a website.
 
 <img src='https://raw.githubusercontent.com/GH0STH4CKER/Website_SS/main/Screenshot_20210401-124239_Termux.jpg' width=700>
 
-You can get your own api key for free from <a href='https://www.screenshotmachine.com/register.php?button=home'>this site</a> .
+You can get your own api key for free from <a href='https://www.screenshotmachine.com/website-screenshot-api.php'>this site</a> .
 <br><br>
 And add api.key to api.py :<br><br>
 line 1: key = "apikey"
