@@ -1,3 +1,7 @@
+# Python 3.8.3
+# Coded By GH0STH4CK3R
+# Used API of screenshotmachine.com
+
 import requests
 from api import key
 from colorama import Fore,init
